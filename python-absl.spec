@@ -7,7 +7,7 @@ Summary:	Abseil Python Common Libraries
 Summary(pl.UTF-8):	Wspólne biblioteki Abseil dla Pythona
 Name:		python-absl
 Version:	0.9.0
-Release:	3
+Release:	4
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/absl-py/
